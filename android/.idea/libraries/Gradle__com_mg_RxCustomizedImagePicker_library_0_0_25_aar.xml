@@ -1,0 +1,12 @@
+<component name="libraryTable">
+  <library name="Gradle: com.mg.RxCustomizedImagePicker:library:0.0.25@aar">
+    <CLASSES>
+      <root url="file://$USER_HOME$/.gradle/caches/transforms-1/files-1.1/library-0.0.25.aar/64bea7f4b5e9a4e1c930b678996db42d/res" />
+      <root url="jar://$USER_HOME$/.gradle/caches/transforms-1/files-1.1/library-0.0.25.aar/64bea7f4b5e9a4e1c930b678996db42d/jars/classes.jar!/" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES>
+      <root url="jar://$USER_HOME$/.gradle/caches/modules-2/files-2.1/com.mg.RxCustomizedImagePicker/library/0.0.25/cf330092c3623f89d58bd69afb424513cdce7e25/library-0.0.25-sources.jar!/" />
+    </SOURCES>
+  </library>
+</component>

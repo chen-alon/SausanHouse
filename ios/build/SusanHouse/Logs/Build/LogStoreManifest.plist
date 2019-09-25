@@ -1,0 +1,69 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>logFormatVersion</key>
+	<integer>9</integer>
+	<key>logs</key>
+	<dict>
+		<key>A20458A8-A4A1-45BF-8286-6D152D3D4C36</key>
+		<dict>
+			<key>className</key>
+			<string>IDECommandLineBuildLog</string>
+			<key>documentTypeString</key>
+			<string>&lt;nil&gt;</string>
+			<key>domainType</key>
+			<string>Xcode.IDEActivityLogDomainType.BuildLog</string>
+			<key>fileName</key>
+			<string>A20458A8-A4A1-45BF-8286-6D152D3D4C36.xcactivitylog</string>
+			<key>highLevelStatus</key>
+			<string>W</string>
+			<key>schemeIdentifier-containerName</key>
+			<string>SusanHouse project</string>
+			<key>schemeIdentifier-schemeName</key>
+			<string>SusanHouse</string>
+			<key>schemeIdentifier-sharedScheme</key>
+			<integer>1</integer>
+			<key>signature</key>
+			<string>Building project SusanHouse with scheme SusanHouse and configuration Debug</string>
+			<key>timeStartedRecording</key>
+			<real>583354094.49073303</real>
+			<key>timeStoppedRecording</key>
+			<real>583354140.08467197</real>
+			<key>title</key>
+			<string>Building project SusanHouse with scheme SusanHouse and configuration Debug</string>
+			<key>uniqueIdentifier</key>
+			<string>A20458A8-A4A1-45BF-8286-6D152D3D4C36</string>
+		</dict>
+		<key>FFBD2B3B-4ECE-403D-9F0B-D9E154C9ED9E</key>
+		<dict>
+			<key>className</key>
+			<string>IDECommandLineBuildLog</string>
+			<key>documentTypeString</key>
+			<string>&lt;nil&gt;</string>
+			<key>domainType</key>
+			<string>Xcode.IDEActivityLogDomainType.BuildLog</string>
+			<key>fileName</key>
+			<string>FFBD2B3B-4ECE-403D-9F0B-D9E154C9ED9E.xcactivitylog</string>
+			<key>highLevelStatus</key>
+			<string>W</string>
+			<key>schemeIdentifier-containerName</key>
+			<string>SusanHouse project</string>
+			<key>schemeIdentifier-schemeName</key>
+			<string>SusanHouse</string>
+			<key>schemeIdentifier-sharedScheme</key>
+			<integer>1</integer>
+			<key>signature</key>
+			<string>Building project SusanHouse with scheme SusanHouse and configuration Debug</string>
+			<key>timeStartedRecording</key>
+			<real>583407895.79073596</real>
+			<key>timeStoppedRecording</key>
+			<real>583407905.71511996</real>
+			<key>title</key>
+			<string>Building project SusanHouse with scheme SusanHouse and configuration Debug</string>
+			<key>uniqueIdentifier</key>
+			<string>FFBD2B3B-4ECE-403D-9F0B-D9E154C9ED9E</string>
+		</dict>
+	</dict>
+</dict>
+</plist>

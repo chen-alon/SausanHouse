@@ -1,0 +1,65 @@
+{
+  "name": "SusanHouse",
+  "version": "0.0.1",
+  "private": true,
+  "scripts": {
+    "start": "node node_modules/react-native/local-cli/cli.js start",
+    "test": "jest"
+  },
+  "dependencies": {
+    "axios": "^0.19.0",
+    "buffer": "^5.2.1",
+    "file-system": "^2.2.2",
+    "firebase": "^6.0.2",
+    "fs-extra": "^8.0.1",
+    "moment": "^2.24.0",
+    "native-base": "^2.12.1",
+    "path": "^0.12.7",
+    "prop-types": "^15.7.2",
+    "react": "16.8.3",
+    "react-csv": "^1.1.1",
+    "react-dropdown": "^1.6.4",
+    "react-native": "0.59.5",
+    "react-native-animated-background-color-view": "^1.1.1",
+    "react-native-animated-loader": "0.0.7",
+    "react-native-bouncing-preloader": "^1.0.1",
+    "react-native-calendars": "^1.108.0",
+    "react-native-camera-roll-picker": "^1.3.0",
+    "react-native-customized-image-picker": "^0.1.5",
+    "react-native-datepicker": "^1.7.2",
+    "react-native-deprecated-custom-components": "^0.1.2",
+    "react-native-elements": "^1.1.0",
+    "react-native-email": "^1.0.2",
+    "react-native-fetch-blob": "^0.10.8",
+    "react-native-gesture-handler": "^1.2.1",
+    "react-native-gradient-header": "0.0.17",
+    "react-native-image-picker": "^0.28.1",
+    "react-native-indicators": "^0.13.0",
+    "react-native-linear-gradient": "^2.5.4",
+    "react-native-modal-datetime-picker": "^7.4.2",
+    "react-native-month-selector": "^1.4.0",
+    "react-native-pull-to-refresh": "^2.1.3",
+    "react-native-table-component": "^1.2.0",
+    "react-native-textinput-effects": "^0.5.1",
+    "react-native-vector-icons": "^6.4.2",
+    "react-native-video": "^4.4.1",
+    "react-navigation": "^3.11.0",
+    "react-navigation-custom-bottom-tab-component": "^1.1.1",
+    "react-year-month-picker": "^1.0.0"
+  },
+  "devDependencies": {
+    "@babel/core": "7.4.4",
+    "@babel/runtime": "7.4.4",
+    "babel-plugin-transform-class-properties": "^6.24.1",
+    "metro-react-native-babel-preset": "0.54.0",
+    "react-native-dotenv": "^0.2.0"
+  },
+  "jest": {
+    "preset": "react-native"
+  },
+  "rnpm": {
+    "assets": [
+      "./assets/fonts/"
+    ]
+  }
+}

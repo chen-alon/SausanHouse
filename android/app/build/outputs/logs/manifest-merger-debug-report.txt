@@ -1,0 +1,278 @@
+-- Merging decision tree log ---
+manifest
+ADDED from C:\Users\WIN10\Desktop\sapir\android\app\src\main\AndroidManifest.xml:1:1-27:12
+INJECTED from C:\Users\WIN10\Desktop\sapir\android\app\src\main\AndroidManifest.xml:1:1-27:12
+INJECTED from C:\Users\WIN10\Desktop\sapir\android\app\src\main\AndroidManifest.xml:1:1-27:12
+INJECTED from C:\Users\WIN10\Desktop\sapir\android\app\src\main\AndroidManifest.xml:1:1-27:12
+MERGED from C:\Users\WIN10\Desktop\sapir\android\app\src\main\AndroidManifest.xml:1:1-27:12
+MERGED from [:react-native-video] C:\Users\WIN10\Desktop\sapir\node_modules\react-native-video\android-exoplayer\build\intermediates\library_manifest\debug\AndroidManifest.xml:2:1-11:12
+MERGED from [:react-native-fetch-blob] C:\Users\WIN10\Desktop\sapir\node_modules\react-native-fetch-blob\android\build\intermediates\library_manifest\debug\AndroidManifest.xml:2:1-14:12
+MERGED from [:react-native-image-picker] C:\Users\WIN10\Desktop\sapir\node_modules\react-native-image-picker\android\build\intermediates\library_manifest\debug\AndroidManifest.xml:2:1-23:12
+MERGED from [:react-native-vector-icons] C:\Users\WIN10\Desktop\sapir\node_modules\react-native-vector-icons\android\build\intermediates\library_manifest\debug\AndroidManifest.xml:2:1-11:12
+MERGED from [:react-native-gesture-handler] C:\Users\WIN10\Desktop\sapir\node_modules\react-native-gesture-handler\android\build\intermediates\library_manifest\debug\AndroidManifest.xml:2:1-11:12
+MERGED from [com.facebook.react:react-native:0.59.5] C:\Users\WIN10\.gradle\caches\transforms-1\files-1.1\react-native-0.59.5.aar\d1e440d18de96482f5cde7755042f0bc\AndroidManifest.xml:2:1-13:12
+MERGED from [com.android.support:appcompat-v7:28.0.0] C:\Users\WIN10\.gradle\caches\transforms-1\files-1.1\appcompat-v7-28.0.0.aar\a3fb95aa9c4e1bd87a1d67b914866637\AndroidManifest.xml:17:1-22:12
+MERGED from [com.google.android.exoplayer:exoplayer:2.9.3] C:\Users\WIN10\.gradle\caches\transforms-1\files-1.1\exoplayer-2.9.3.aar\9f5a9088a877efe74abaf50532730890\AndroidManifest.xml:17:1-24:12
+MERGED from [com.android.support:support-media-compat:28.0.0] C:\Users\WIN10\.gradle\caches\transforms-1\files-1.1\support-media-compat-28.0.0.aar\00104b7dc46ef4e95bb982e5de983f37\AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:support-fragment:28.0.0] C:\Users\WIN10\.gradle\caches\transforms-1\files-1.1\support-fragment-28.0.0.aar\2263f2b13150883a689379d8e5d0fbe3\AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:animated-vector-drawable:28.0.0] C:\Users\WIN10\.gradle\caches\transforms-1\files-1.1\animated-vector-drawable-28.0.0.aar\fae63849fae15467a5e9c7fb2fae8294\AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:support-core-ui:28.0.0] C:\Users\WIN10\.gradle\caches\transforms-1\files-1.1\support-core-ui-28.0.0.aar\21335d4fb25fb086c341fe38cd74fe45\AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:support-core-utils:28.0.0] C:\Users\WIN10\.gradle\caches\transforms-1\files-1.1\support-core-utils-28.0.0.aar\a083a0ea6c213e343d027fa6790a3b82\AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:support-vector-drawable:28.0.0] C:\Users\WIN10\.gradle\caches\transforms-1\files-1.1\support-vector-drawable-28.0.0.aar\ae01f6c6ea4579562c54792623c5b9b2\AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:loader:28.0.0] C:\Users\WIN10\.gradle\caches\transforms-1\files-1.1\loader-28.0.0.aar\3adcc9017619b13d6aafe994ac3cab3a\AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:viewpager:28.0.0] C:\Users\WIN10\.gradle\caches\transforms-1\files-1.1\viewpager-28.0.0.aar\63692d4e85cf6272444de588f2cfb59d\AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:coordinatorlayout:28.0.0] C:\Users\WIN10\.gradle\caches\transforms-1\files-1.1\coordinatorlayout-28.0.0.aar\dd49512008e37fe6cd07e16c1b8c2388\AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:drawerlayout:28.0.0] C:\Users\WIN10\.gradle\caches\transforms-1\files-1.1\drawerlayout-28.0.0.aar\75c995cb6ef9fa03b3b3377cafd78aa6\AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:slidingpanelayout:28.0.0] C:\Users\WIN10\.gradle\caches\transforms-1\files-1.1\slidingpanelayout-28.0.0.aar\470551b24109b57b9768daed965ebc9e\AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:customview:28.0.0] C:\Users\WIN10\.gradle\caches\transforms-1\files-1.1\customview-28.0.0.aar\80a2cc7f78b6f99455d624c45b47e166\AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:swiperefreshlayout:28.0.0] C:\Users\WIN10\.gradle\caches\transforms-1\files-1.1\swiperefreshlayout-28.0.0.aar\2b1127b62b3b9fe535b249f032e1a0d5\AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:asynclayoutinflater:28.0.0] C:\Users\WIN10\.gradle\caches\transforms-1\files-1.1\asynclayoutinflater-28.0.0.aar\b2be02e3872035f59c2b6c599cbb3823\AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:support-compat:28.0.0] C:\Users\WIN10\.gradle\caches\transforms-1\files-1.1\support-compat-28.0.0.aar\25b3bcd7ad880cf7b434b196550efd4e\AndroidManifest.xml:17:1-24:12
+MERGED from [com.google.android.exoplayer:extension-okhttp:2.9.3] C:\Users\WIN10\.gradle\caches\transforms-1\files-1.1\extension-okhttp-2.9.3.aar\713ee61a60ed6b4b197aa65dfebe7fdf\AndroidManifest.xml:17:1-24:12
+MERGED from [com.android.support:versionedparcelable:28.0.0] C:\Users\WIN10\.gradle\caches\transforms-1\files-1.1\versionedparcelable-28.0.0.aar\f880b51e229a3442415ded363fd34a9a\AndroidManifest.xml:17:1-25:12
+MERGED from [com.android.support:cursoradapter:28.0.0] C:\Users\WIN10\.gradle\caches\transforms-1\files-1.1\cursoradapter-28.0.0.aar\bc19a04e09af80a40ae9dcdf6634c91a\AndroidManifest.xml:17:1-22:12
+MERGED from [com.google.android.exoplayer:exoplayer-dash:2.9.3] C:\Users\WIN10\.gradle\caches\transforms-1\files-1.1\exoplayer-dash-2.9.3.aar\fc2365c86ff063606283f4302bbacdef\AndroidManifest.xml:17:1-24:12
+MERGED from [com.google.android.exoplayer:exoplayer-hls:2.9.3] C:\Users\WIN10\.gradle\caches\transforms-1\files-1.1\exoplayer-hls-2.9.3.aar\50ff4965c116f72ff4bb8ee5a11aa01d\AndroidManifest.xml:17:1-24:12
+MERGED from [com.google.android.exoplayer:exoplayer-smoothstreaming:2.9.3] C:\Users\WIN10\.gradle\caches\transforms-1\files-1.1\exoplayer-smoothstreaming-2.9.3.aar\94729f4d9f51eac4dc1899636609eac0\AndroidManifest.xml:17:1-24:12
+MERGED from [com.google.android.exoplayer:exoplayer-ui:2.9.3] C:\Users\WIN10\.gradle\caches\transforms-1\files-1.1\exoplayer-ui-2.9.3.aar\6a3b00ddf68b2dbe3f45930ed5e6072f\AndroidManifest.xml:17:1-24:12
+MERGED from [com.google.android.exoplayer:exoplayer-core:2.9.3] C:\Users\WIN10\.gradle\caches\transforms-1\files-1.1\exoplayer-core-2.9.3.aar\c282af8f1bf3c35f2c9dbbc9a967213f\AndroidManifest.xml:17:1-26:12
+MERGED from [android.arch.lifecycle:runtime:1.1.1] C:\Users\WIN10\.gradle\caches\transforms-1\files-1.1\runtime-1.1.1.aar\ee3165cab7af813fe0beaca4f3295fa0\AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:documentfile:28.0.0] C:\Users\WIN10\.gradle\caches\transforms-1\files-1.1\documentfile-28.0.0.aar\0b564aa57f46116cec8004e397248021\AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:localbroadcastmanager:28.0.0] C:\Users\WIN10\.gradle\caches\transforms-1\files-1.1\localbroadcastmanager-28.0.0.aar\2818afe074c8de9872a2d137f93edef6\AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:print:28.0.0] C:\Users\WIN10\.gradle\caches\transforms-1\files-1.1\print-28.0.0.aar\d460e821c85df9bed9d4cae859b4c038\AndroidManifest.xml:17:1-22:12
+MERGED from [android.arch.lifecycle:viewmodel:1.1.1] C:\Users\WIN10\.gradle\caches\transforms-1\files-1.1\viewmodel-1.1.1.aar\5df24c95b6cf148141289c827f934130\AndroidManifest.xml:17:1-22:12
+MERGED from [android.arch.lifecycle:livedata:1.1.1] C:\Users\WIN10\.gradle\caches\transforms-1\files-1.1\livedata-1.1.1.aar\1b12254193e90e4d1ad32dd813bbe060\AndroidManifest.xml:17:1-22:12
+MERGED from [android.arch.lifecycle:livedata-core:1.1.1] C:\Users\WIN10\.gradle\caches\transforms-1\files-1.1\livedata-core-1.1.1.aar\caf60ae866b9d35b801a1bf8e4059db9\AndroidManifest.xml:17:1-22:12
+MERGED from [android.arch.core:runtime:1.1.1] C:\Users\WIN10\.gradle\caches\transforms-1\files-1.1\runtime-1.1.1.aar\db20717d0a59d88bc0110719435513f9\AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:interpolator:28.0.0] C:\Users\WIN10\.gradle\caches\transforms-1\files-1.1\interpolator-28.0.0.aar\1912cb50d2e5a11e61e1a386b993bf87\AndroidManifest.xml:17:1-22:12
+MERGED from [com.facebook.fresco:imagepipeline-okhttp3:1.10.0] C:\Users\WIN10\.gradle\caches\transforms-1\files-1.1\imagepipeline-okhttp3-1.10.0.aar\6fb1c735b6375385519d27e6ba588c56\AndroidManifest.xml:2:1-9:12
+MERGED from [com.facebook.fresco:fresco:1.10.0] C:\Users\WIN10\.gradle\caches\transforms-1\files-1.1\fresco-1.10.0.aar\8d946a87dcce13c0eddd9a2961699922\AndroidManifest.xml:2:1-9:12
+MERGED from [com.facebook.fresco:drawee:1.10.0] C:\Users\WIN10\.gradle\caches\transforms-1\files-1.1\drawee-1.10.0.aar\767a432f451a41405fc83558d89262e5\AndroidManifest.xml:2:1-9:12
+MERGED from [com.facebook.fresco:imagepipeline:1.10.0] C:\Users\WIN10\.gradle\caches\transforms-1\files-1.1\imagepipeline-1.10.0.aar\da478952b1bb4f4effecde8b8e90d701\AndroidManifest.xml:2:1-9:12
+MERGED from [com.facebook.fresco:imagepipeline-base:1.10.0] C:\Users\WIN10\.gradle\caches\transforms-1\files-1.1\imagepipeline-base-1.10.0.aar\c5c35f4d76dbf97da1b3cbc156555e1a\AndroidManifest.xml:2:1-9:12
+MERGED from [com.facebook.soloader:soloader:0.6.0] C:\Users\WIN10\.gradle\caches\transforms-1\files-1.1\soloader-0.6.0.aar\9dfd606259c94a6a144cf5862a0c3587\AndroidManifest.xml:2:1-13:12
+MERGED from [com.facebook.fresco:fbcore:1.10.0] C:\Users\WIN10\.gradle\caches\transforms-1\files-1.1\fbcore-1.10.0.aar\f0494463bfbe43f3d6eec198f862595b\AndroidManifest.xml:2:1-9:12
+INJECTED from C:\Users\WIN10\Desktop\sapir\android\app\src\debug\AndroidManifest.xml:2:1-8:12
+INJECTED from C:\Users\WIN10\Desktop\sapir\android\app\src\debug\AndroidManifest.xml:2:1-8:12
+INJECTED from C:\Users\WIN10\Desktop\sapir\android\app\src\debug\AndroidManifest.xml:2:1-8:12
+	package
+		ADDED from C:\Users\WIN10\Desktop\sapir\android\app\src\main\AndroidManifest.xml:2:3-27
+		INJECTED from C:\Users\WIN10\Desktop\sapir\android\app\src\main\AndroidManifest.xml
+		ADDED from C:\Users\WIN10\Desktop\sapir\android\app\src\main\AndroidManifest.xml:2:3-27
+		INJECTED from C:\Users\WIN10\Desktop\sapir\android\app\src\debug\AndroidManifest.xml
+	android:versionName
+		INJECTED from C:\Users\WIN10\Desktop\sapir\android\app\src\main\AndroidManifest.xml
+		ADDED from C:\Users\WIN10\Desktop\sapir\android\app\src\main\AndroidManifest.xml:1:1-27:12
+		INJECTED from C:\Users\WIN10\Desktop\sapir\android\app\src\debug\AndroidManifest.xml
+	xmlns:tools
+		ADDED from C:\Users\WIN10\Desktop\sapir\android\app\src\debug\AndroidManifest.xml:3:5-51
+	android:versionCode
+		INJECTED from C:\Users\WIN10\Desktop\sapir\android\app\src\main\AndroidManifest.xml
+		ADDED from C:\Users\WIN10\Desktop\sapir\android\app\src\main\AndroidManifest.xml:1:1-27:12
+		INJECTED from C:\Users\WIN10\Desktop\sapir\android\app\src\debug\AndroidManifest.xml
+	xmlns:android
+		ADDED from C:\Users\WIN10\Desktop\sapir\android\app\src\main\AndroidManifest.xml:1:11-69
+uses-permission#android.permission.INTERNET
+ADDED from C:\Users\WIN10\Desktop\sapir\android\app\src\main\AndroidManifest.xml:4:5-67
+	android:name
+		ADDED from C:\Users\WIN10\Desktop\sapir\android\app\src\main\AndroidManifest.xml:4:22-64
+uses-permission#android.permission.ACCESS_FINE_LOCATION
+ADDED from C:\Users\WIN10\Desktop\sapir\android\app\src\main\AndroidManifest.xml:5:1-74
+	android:name
+		ADDED from C:\Users\WIN10\Desktop\sapir\android\app\src\main\AndroidManifest.xml:5:18-72
+application
+ADDED from C:\Users\WIN10\Desktop\sapir\android\app\src\main\AndroidManifest.xml:7:5-25:19
+MERGED from C:\Users\WIN10\Desktop\sapir\android\app\src\main\AndroidManifest.xml:7:5-25:19
+MERGED from C:\Users\WIN10\Desktop\sapir\android\app\src\main\AndroidManifest.xml:7:5-25:19
+MERGED from [:react-native-fetch-blob] C:\Users\WIN10\Desktop\sapir\node_modules\react-native-fetch-blob\android\build\intermediates\library_manifest\debug\AndroidManifest.xml:11:5-12:19
+MERGED from [:react-native-fetch-blob] C:\Users\WIN10\Desktop\sapir\node_modules\react-native-fetch-blob\android\build\intermediates\library_manifest\debug\AndroidManifest.xml:11:5-12:19
+MERGED from [:react-native-image-picker] C:\Users\WIN10\Desktop\sapir\node_modules\react-native-image-picker\android\build\intermediates\library_manifest\debug\AndroidManifest.xml:11:5-21:19
+MERGED from [:react-native-image-picker] C:\Users\WIN10\Desktop\sapir\node_modules\react-native-image-picker\android\build\intermediates\library_manifest\debug\AndroidManifest.xml:11:5-21:19
+MERGED from [com.facebook.react:react-native:0.59.5] C:\Users\WIN10\.gradle\caches\transforms-1\files-1.1\react-native-0.59.5.aar\d1e440d18de96482f5cde7755042f0bc\AndroidManifest.xml:11:5-20
+MERGED from [com.facebook.react:react-native:0.59.5] C:\Users\WIN10\.gradle\caches\transforms-1\files-1.1\react-native-0.59.5.aar\d1e440d18de96482f5cde7755042f0bc\AndroidManifest.xml:11:5-20
+MERGED from [com.android.support:support-compat:28.0.0] C:\Users\WIN10\.gradle\caches\transforms-1\files-1.1\support-compat-28.0.0.aar\25b3bcd7ad880cf7b434b196550efd4e\AndroidManifest.xml:22:5-94
+MERGED from [com.android.support:support-compat:28.0.0] C:\Users\WIN10\.gradle\caches\transforms-1\files-1.1\support-compat-28.0.0.aar\25b3bcd7ad880cf7b434b196550efd4e\AndroidManifest.xml:22:5-94
+MERGED from [com.android.support:versionedparcelable:28.0.0] C:\Users\WIN10\.gradle\caches\transforms-1\files-1.1\versionedparcelable-28.0.0.aar\f880b51e229a3442415ded363fd34a9a\AndroidManifest.xml:22:5-23:19
+MERGED from [com.android.support:versionedparcelable:28.0.0] C:\Users\WIN10\.gradle\caches\transforms-1\files-1.1\versionedparcelable-28.0.0.aar\f880b51e229a3442415ded363fd34a9a\AndroidManifest.xml:22:5-23:19
+MERGED from [com.facebook.soloader:soloader:0.6.0] C:\Users\WIN10\.gradle\caches\transforms-1\files-1.1\soloader-0.6.0.aar\9dfd606259c94a6a144cf5862a0c3587\AndroidManifest.xml:11:5-20
+MERGED from [com.facebook.soloader:soloader:0.6.0] C:\Users\WIN10\.gradle\caches\transforms-1\files-1.1\soloader-0.6.0.aar\9dfd606259c94a6a144cf5862a0c3587\AndroidManifest.xml:11:5-20
+	android:appComponentFactory
+		ADDED from [com.android.support:support-compat:28.0.0] C:\Users\WIN10\.gradle\caches\transforms-1\files-1.1\support-compat-28.0.0.aar\25b3bcd7ad880cf7b434b196550efd4e\AndroidManifest.xml:22:18-91
+	android:label
+		ADDED from C:\Users\WIN10\Desktop\sapir\android\app\src\main\AndroidManifest.xml:9:7-39
+		ADDED from C:\Users\WIN10\Desktop\sapir\android\app\src\main\AndroidManifest.xml:9:7-39
+	tools:ignore
+		ADDED from C:\Users\WIN10\Desktop\sapir\android\app\src\debug\AndroidManifest.xml:7:75-114
+	android:roundIcon
+		ADDED from C:\Users\WIN10\Desktop\sapir\android\app\src\main\AndroidManifest.xml:11:7-52
+		ADDED from C:\Users\WIN10\Desktop\sapir\android\app\src\main\AndroidManifest.xml:11:7-52
+	tools:targetApi
+		ADDED from C:\Users\WIN10\Desktop\sapir\android\app\src\debug\AndroidManifest.xml:7:54-74
+	android:icon
+		ADDED from C:\Users\WIN10\Desktop\sapir\android\app\src\main\AndroidManifest.xml:10:7-41
+		ADDED from C:\Users\WIN10\Desktop\sapir\android\app\src\main\AndroidManifest.xml:10:7-41
+	android:allowBackup
+		ADDED from C:\Users\WIN10\Desktop\sapir\android\app\src\main\AndroidManifest.xml:12:7-34
+		ADDED from C:\Users\WIN10\Desktop\sapir\android\app\src\main\AndroidManifest.xml:12:7-34
+	android:theme
+		ADDED from C:\Users\WIN10\Desktop\sapir\android\app\src\main\AndroidManifest.xml:13:7-38
+		ADDED from C:\Users\WIN10\Desktop\sapir\android\app\src\main\AndroidManifest.xml:13:7-38
+	android:usesCleartextTraffic
+		ADDED from C:\Users\WIN10\Desktop\sapir\android\app\src\debug\AndroidManifest.xml:7:18-53
+	android:name
+		ADDED from C:\Users\WIN10\Desktop\sapir\android\app\src\main\AndroidManifest.xml:8:7-38
+		ADDED from C:\Users\WIN10\Desktop\sapir\android\app\src\main\AndroidManifest.xml:8:7-38
+activity#com.susanhouse.MainActivity
+ADDED from C:\Users\WIN10\Desktop\sapir\android\app\src\main\AndroidManifest.xml:14:7-23:18
+	android:label
+		ADDED from C:\Users\WIN10\Desktop\sapir\android\app\src\main\AndroidManifest.xml:16:9-41
+	android:windowSoftInputMode
+		ADDED from C:\Users\WIN10\Desktop\sapir\android\app\src\main\AndroidManifest.xml:18:9-51
+	android:configChanges
+		ADDED from C:\Users\WIN10\Desktop\sapir\android\app\src\main\AndroidManifest.xml:17:9-79
+	android:name
+		ADDED from C:\Users\WIN10\Desktop\sapir\android\app\src\main\AndroidManifest.xml:15:9-37
+intent-filter#action:name:android.intent.action.MAIN+category:name:android.intent.category.LAUNCHER
+ADDED from C:\Users\WIN10\Desktop\sapir\android\app\src\main\AndroidManifest.xml:19:9-22:25
+action#android.intent.action.MAIN
+ADDED from C:\Users\WIN10\Desktop\sapir\android\app\src\main\AndroidManifest.xml:20:13-65
+	android:name
+		ADDED from C:\Users\WIN10\Desktop\sapir\android\app\src\main\AndroidManifest.xml:20:21-62
+category#android.intent.category.LAUNCHER
+ADDED from C:\Users\WIN10\Desktop\sapir\android\app\src\main\AndroidManifest.xml:21:13-73
+	android:name
+		ADDED from C:\Users\WIN10\Desktop\sapir\android\app\src\main\AndroidManifest.xml:21:23-70
+activity#com.facebook.react.devsupport.DevSettingsActivity
+ADDED from C:\Users\WIN10\Desktop\sapir\android\app\src\main\AndroidManifest.xml:24:7-84
+	android:name
+		ADDED from C:\Users\WIN10\Desktop\sapir\android\app\src\main\AndroidManifest.xml:24:17-81
+uses-sdk
+INJECTED from C:\Users\WIN10\Desktop\sapir\android\app\src\main\AndroidManifest.xml reason: use-sdk injection requested
+INJECTED from C:\Users\WIN10\Desktop\sapir\android\app\src\main\AndroidManifest.xml
+INJECTED from C:\Users\WIN10\Desktop\sapir\android\app\src\main\AndroidManifest.xml
+MERGED from [:react-native-video] C:\Users\WIN10\Desktop\sapir\node_modules\react-native-video\android-exoplayer\build\intermediates\library_manifest\debug\AndroidManifest.xml:7:5-9:41
+MERGED from [:react-native-video] C:\Users\WIN10\Desktop\sapir\node_modules\react-native-video\android-exoplayer\build\intermediates\library_manifest\debug\AndroidManifest.xml:7:5-9:41
+MERGED from [:react-native-fetch-blob] C:\Users\WIN10\Desktop\sapir\node_modules\react-native-fetch-blob\android\build\intermediates\library_manifest\debug\AndroidManifest.xml:7:5-9:41
+MERGED from [:react-native-fetch-blob] C:\Users\WIN10\Desktop\sapir\node_modules\react-native-fetch-blob\android\build\intermediates\library_manifest\debug\AndroidManifest.xml:7:5-9:41
+MERGED from [:react-native-image-picker] C:\Users\WIN10\Desktop\sapir\node_modules\react-native-image-picker\android\build\intermediates\library_manifest\debug\AndroidManifest.xml:7:5-9:41
+MERGED from [:react-native-image-picker] C:\Users\WIN10\Desktop\sapir\node_modules\react-native-image-picker\android\build\intermediates\library_manifest\debug\AndroidManifest.xml:7:5-9:41
+MERGED from [:react-native-vector-icons] C:\Users\WIN10\Desktop\sapir\node_modules\react-native-vector-icons\android\build\intermediates\library_manifest\debug\AndroidManifest.xml:7:5-9:41
+MERGED from [:react-native-vector-icons] C:\Users\WIN10\Desktop\sapir\node_modules\react-native-vector-icons\android\build\intermediates\library_manifest\debug\AndroidManifest.xml:7:5-9:41
+MERGED from [:react-native-gesture-handler] C:\Users\WIN10\Desktop\sapir\node_modules\react-native-gesture-handler\android\build\intermediates\library_manifest\debug\AndroidManifest.xml:7:5-9:41
+MERGED from [:react-native-gesture-handler] C:\Users\WIN10\Desktop\sapir\node_modules\react-native-gesture-handler\android\build\intermediates\library_manifest\debug\AndroidManifest.xml:7:5-9:41
+MERGED from [com.facebook.react:react-native:0.59.5] C:\Users\WIN10\.gradle\caches\transforms-1\files-1.1\react-native-0.59.5.aar\d1e440d18de96482f5cde7755042f0bc\AndroidManifest.xml:7:5-9:41
+MERGED from [com.facebook.react:react-native:0.59.5] C:\Users\WIN10\.gradle\caches\transforms-1\files-1.1\react-native-0.59.5.aar\d1e440d18de96482f5cde7755042f0bc\AndroidManifest.xml:7:5-9:41
+MERGED from [com.android.support:appcompat-v7:28.0.0] C:\Users\WIN10\.gradle\caches\transforms-1\files-1.1\appcompat-v7-28.0.0.aar\a3fb95aa9c4e1bd87a1d67b914866637\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:appcompat-v7:28.0.0] C:\Users\WIN10\.gradle\caches\transforms-1\files-1.1\appcompat-v7-28.0.0.aar\a3fb95aa9c4e1bd87a1d67b914866637\AndroidManifest.xml:20:5-44
+MERGED from [com.google.android.exoplayer:exoplayer:2.9.3] C:\Users\WIN10\.gradle\caches\transforms-1\files-1.1\exoplayer-2.9.3.aar\9f5a9088a877efe74abaf50532730890\AndroidManifest.xml:20:5-22:41
+MERGED from [com.google.android.exoplayer:exoplayer:2.9.3] C:\Users\WIN10\.gradle\caches\transforms-1\files-1.1\exoplayer-2.9.3.aar\9f5a9088a877efe74abaf50532730890\AndroidManifest.xml:20:5-22:41
+MERGED from [com.android.support:support-media-compat:28.0.0] C:\Users\WIN10\.gradle\caches\transforms-1\files-1.1\support-media-compat-28.0.0.aar\00104b7dc46ef4e95bb982e5de983f37\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-media-compat:28.0.0] C:\Users\WIN10\.gradle\caches\transforms-1\files-1.1\support-media-compat-28.0.0.aar\00104b7dc46ef4e95bb982e5de983f37\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-fragment:28.0.0] C:\Users\WIN10\.gradle\caches\transforms-1\files-1.1\support-fragment-28.0.0.aar\2263f2b13150883a689379d8e5d0fbe3\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-fragment:28.0.0] C:\Users\WIN10\.gradle\caches\transforms-1\files-1.1\support-fragment-28.0.0.aar\2263f2b13150883a689379d8e5d0fbe3\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:animated-vector-drawable:28.0.0] C:\Users\WIN10\.gradle\caches\transforms-1\files-1.1\animated-vector-drawable-28.0.0.aar\fae63849fae15467a5e9c7fb2fae8294\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:animated-vector-drawable:28.0.0] C:\Users\WIN10\.gradle\caches\transforms-1\files-1.1\animated-vector-drawable-28.0.0.aar\fae63849fae15467a5e9c7fb2fae8294\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-core-ui:28.0.0] C:\Users\WIN10\.gradle\caches\transforms-1\files-1.1\support-core-ui-28.0.0.aar\21335d4fb25fb086c341fe38cd74fe45\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-core-ui:28.0.0] C:\Users\WIN10\.gradle\caches\transforms-1\files-1.1\support-core-ui-28.0.0.aar\21335d4fb25fb086c341fe38cd74fe45\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-core-utils:28.0.0] C:\Users\WIN10\.gradle\caches\transforms-1\files-1.1\support-core-utils-28.0.0.aar\a083a0ea6c213e343d027fa6790a3b82\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-core-utils:28.0.0] C:\Users\WIN10\.gradle\caches\transforms-1\files-1.1\support-core-utils-28.0.0.aar\a083a0ea6c213e343d027fa6790a3b82\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-vector-drawable:28.0.0] C:\Users\WIN10\.gradle\caches\transforms-1\files-1.1\support-vector-drawable-28.0.0.aar\ae01f6c6ea4579562c54792623c5b9b2\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-vector-drawable:28.0.0] C:\Users\WIN10\.gradle\caches\transforms-1\files-1.1\support-vector-drawable-28.0.0.aar\ae01f6c6ea4579562c54792623c5b9b2\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:loader:28.0.0] C:\Users\WIN10\.gradle\caches\transforms-1\files-1.1\loader-28.0.0.aar\3adcc9017619b13d6aafe994ac3cab3a\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:loader:28.0.0] C:\Users\WIN10\.gradle\caches\transforms-1\files-1.1\loader-28.0.0.aar\3adcc9017619b13d6aafe994ac3cab3a\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:viewpager:28.0.0] C:\Users\WIN10\.gradle\caches\transforms-1\files-1.1\viewpager-28.0.0.aar\63692d4e85cf6272444de588f2cfb59d\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:viewpager:28.0.0] C:\Users\WIN10\.gradle\caches\transforms-1\files-1.1\viewpager-28.0.0.aar\63692d4e85cf6272444de588f2cfb59d\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:coordinatorlayout:28.0.0] C:\Users\WIN10\.gradle\caches\transforms-1\files-1.1\coordinatorlayout-28.0.0.aar\dd49512008e37fe6cd07e16c1b8c2388\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:coordinatorlayout:28.0.0] C:\Users\WIN10\.gradle\caches\transforms-1\files-1.1\coordinatorlayout-28.0.0.aar\dd49512008e37fe6cd07e16c1b8c2388\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:drawerlayout:28.0.0] C:\Users\WIN10\.gradle\caches\transforms-1\files-1.1\drawerlayout-28.0.0.aar\75c995cb6ef9fa03b3b3377cafd78aa6\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:drawerlayout:28.0.0] C:\Users\WIN10\.gradle\caches\transforms-1\files-1.1\drawerlayout-28.0.0.aar\75c995cb6ef9fa03b3b3377cafd78aa6\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:slidingpanelayout:28.0.0] C:\Users\WIN10\.gradle\caches\transforms-1\files-1.1\slidingpanelayout-28.0.0.aar\470551b24109b57b9768daed965ebc9e\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:slidingpanelayout:28.0.0] C:\Users\WIN10\.gradle\caches\transforms-1\files-1.1\slidingpanelayout-28.0.0.aar\470551b24109b57b9768daed965ebc9e\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:customview:28.0.0] C:\Users\WIN10\.gradle\caches\transforms-1\files-1.1\customview-28.0.0.aar\80a2cc7f78b6f99455d624c45b47e166\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:customview:28.0.0] C:\Users\WIN10\.gradle\caches\transforms-1\files-1.1\customview-28.0.0.aar\80a2cc7f78b6f99455d624c45b47e166\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:swiperefreshlayout:28.0.0] C:\Users\WIN10\.gradle\caches\transforms-1\files-1.1\swiperefreshlayout-28.0.0.aar\2b1127b62b3b9fe535b249f032e1a0d5\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:swiperefreshlayout:28.0.0] C:\Users\WIN10\.gradle\caches\transforms-1\files-1.1\swiperefreshlayout-28.0.0.aar\2b1127b62b3b9fe535b249f032e1a0d5\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:asynclayoutinflater:28.0.0] C:\Users\WIN10\.gradle\caches\transforms-1\files-1.1\asynclayoutinflater-28.0.0.aar\b2be02e3872035f59c2b6c599cbb3823\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:asynclayoutinflater:28.0.0] C:\Users\WIN10\.gradle\caches\transforms-1\files-1.1\asynclayoutinflater-28.0.0.aar\b2be02e3872035f59c2b6c599cbb3823\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-compat:28.0.0] C:\Users\WIN10\.gradle\caches\transforms-1\files-1.1\support-compat-28.0.0.aar\25b3bcd7ad880cf7b434b196550efd4e\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-compat:28.0.0] C:\Users\WIN10\.gradle\caches\transforms-1\files-1.1\support-compat-28.0.0.aar\25b3bcd7ad880cf7b434b196550efd4e\AndroidManifest.xml:20:5-44
+MERGED from [com.google.android.exoplayer:extension-okhttp:2.9.3] C:\Users\WIN10\.gradle\caches\transforms-1\files-1.1\extension-okhttp-2.9.3.aar\713ee61a60ed6b4b197aa65dfebe7fdf\AndroidManifest.xml:20:5-22:41
+MERGED from [com.google.android.exoplayer:extension-okhttp:2.9.3] C:\Users\WIN10\.gradle\caches\transforms-1\files-1.1\extension-okhttp-2.9.3.aar\713ee61a60ed6b4b197aa65dfebe7fdf\AndroidManifest.xml:20:5-22:41
+MERGED from [com.android.support:versionedparcelable:28.0.0] C:\Users\WIN10\.gradle\caches\transforms-1\files-1.1\versionedparcelable-28.0.0.aar\f880b51e229a3442415ded363fd34a9a\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:versionedparcelable:28.0.0] C:\Users\WIN10\.gradle\caches\transforms-1\files-1.1\versionedparcelable-28.0.0.aar\f880b51e229a3442415ded363fd34a9a\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:cursoradapter:28.0.0] C:\Users\WIN10\.gradle\caches\transforms-1\files-1.1\cursoradapter-28.0.0.aar\bc19a04e09af80a40ae9dcdf6634c91a\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:cursoradapter:28.0.0] C:\Users\WIN10\.gradle\caches\transforms-1\files-1.1\cursoradapter-28.0.0.aar\bc19a04e09af80a40ae9dcdf6634c91a\AndroidManifest.xml:20:5-44
+MERGED from [com.google.android.exoplayer:exoplayer-dash:2.9.3] C:\Users\WIN10\.gradle\caches\transforms-1\files-1.1\exoplayer-dash-2.9.3.aar\fc2365c86ff063606283f4302bbacdef\AndroidManifest.xml:20:5-22:41
+MERGED from [com.google.android.exoplayer:exoplayer-dash:2.9.3] C:\Users\WIN10\.gradle\caches\transforms-1\files-1.1\exoplayer-dash-2.9.3.aar\fc2365c86ff063606283f4302bbacdef\AndroidManifest.xml:20:5-22:41
+MERGED from [com.google.android.exoplayer:exoplayer-hls:2.9.3] C:\Users\WIN10\.gradle\caches\transforms-1\files-1.1\exoplayer-hls-2.9.3.aar\50ff4965c116f72ff4bb8ee5a11aa01d\AndroidManifest.xml:20:5-22:41
+MERGED from [com.google.android.exoplayer:exoplayer-hls:2.9.3] C:\Users\WIN10\.gradle\caches\transforms-1\files-1.1\exoplayer-hls-2.9.3.aar\50ff4965c116f72ff4bb8ee5a11aa01d\AndroidManifest.xml:20:5-22:41
+MERGED from [com.google.android.exoplayer:exoplayer-smoothstreaming:2.9.3] C:\Users\WIN10\.gradle\caches\transforms-1\files-1.1\exoplayer-smoothstreaming-2.9.3.aar\94729f4d9f51eac4dc1899636609eac0\AndroidManifest.xml:20:5-22:41
+MERGED from [com.google.android.exoplayer:exoplayer-smoothstreaming:2.9.3] C:\Users\WIN10\.gradle\caches\transforms-1\files-1.1\exoplayer-smoothstreaming-2.9.3.aar\94729f4d9f51eac4dc1899636609eac0\AndroidManifest.xml:20:5-22:41
+MERGED from [com.google.android.exoplayer:exoplayer-ui:2.9.3] C:\Users\WIN10\.gradle\caches\transforms-1\files-1.1\exoplayer-ui-2.9.3.aar\6a3b00ddf68b2dbe3f45930ed5e6072f\AndroidManifest.xml:20:5-22:41
+MERGED from [com.google.android.exoplayer:exoplayer-ui:2.9.3] C:\Users\WIN10\.gradle\caches\transforms-1\files-1.1\exoplayer-ui-2.9.3.aar\6a3b00ddf68b2dbe3f45930ed5e6072f\AndroidManifest.xml:20:5-22:41
+MERGED from [com.google.android.exoplayer:exoplayer-core:2.9.3] C:\Users\WIN10\.gradle\caches\transforms-1\files-1.1\exoplayer-core-2.9.3.aar\c282af8f1bf3c35f2c9dbbc9a967213f\AndroidManifest.xml:20:5-22:41
+MERGED from [com.google.android.exoplayer:exoplayer-core:2.9.3] C:\Users\WIN10\.gradle\caches\transforms-1\files-1.1\exoplayer-core-2.9.3.aar\c282af8f1bf3c35f2c9dbbc9a967213f\AndroidManifest.xml:20:5-22:41
+MERGED from [android.arch.lifecycle:runtime:1.1.1] C:\Users\WIN10\.gradle\caches\transforms-1\files-1.1\runtime-1.1.1.aar\ee3165cab7af813fe0beaca4f3295fa0\AndroidManifest.xml:20:5-44
+MERGED from [android.arch.lifecycle:runtime:1.1.1] C:\Users\WIN10\.gradle\caches\transforms-1\files-1.1\runtime-1.1.1.aar\ee3165cab7af813fe0beaca4f3295fa0\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:documentfile:28.0.0] C:\Users\WIN10\.gradle\caches\transforms-1\files-1.1\documentfile-28.0.0.aar\0b564aa57f46116cec8004e397248021\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:documentfile:28.0.0] C:\Users\WIN10\.gradle\caches\transforms-1\files-1.1\documentfile-28.0.0.aar\0b564aa57f46116cec8004e397248021\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:localbroadcastmanager:28.0.0] C:\Users\WIN10\.gradle\caches\transforms-1\files-1.1\localbroadcastmanager-28.0.0.aar\2818afe074c8de9872a2d137f93edef6\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:localbroadcastmanager:28.0.0] C:\Users\WIN10\.gradle\caches\transforms-1\files-1.1\localbroadcastmanager-28.0.0.aar\2818afe074c8de9872a2d137f93edef6\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:print:28.0.0] C:\Users\WIN10\.gradle\caches\transforms-1\files-1.1\print-28.0.0.aar\d460e821c85df9bed9d4cae859b4c038\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:print:28.0.0] C:\Users\WIN10\.gradle\caches\transforms-1\files-1.1\print-28.0.0.aar\d460e821c85df9bed9d4cae859b4c038\AndroidManifest.xml:20:5-44
+MERGED from [android.arch.lifecycle:viewmodel:1.1.1] C:\Users\WIN10\.gradle\caches\transforms-1\files-1.1\viewmodel-1.1.1.aar\5df24c95b6cf148141289c827f934130\AndroidManifest.xml:20:5-44
+MERGED from [android.arch.lifecycle:viewmodel:1.1.1] C:\Users\WIN10\.gradle\caches\transforms-1\files-1.1\viewmodel-1.1.1.aar\5df24c95b6cf148141289c827f934130\AndroidManifest.xml:20:5-44
+MERGED from [android.arch.lifecycle:livedata:1.1.1] C:\Users\WIN10\.gradle\caches\transforms-1\files-1.1\livedata-1.1.1.aar\1b12254193e90e4d1ad32dd813bbe060\AndroidManifest.xml:20:5-44
+MERGED from [android.arch.lifecycle:livedata:1.1.1] C:\Users\WIN10\.gradle\caches\transforms-1\files-1.1\livedata-1.1.1.aar\1b12254193e90e4d1ad32dd813bbe060\AndroidManifest.xml:20:5-44
+MERGED from [android.arch.lifecycle:livedata-core:1.1.1] C:\Users\WIN10\.gradle\caches\transforms-1\files-1.1\livedata-core-1.1.1.aar\caf60ae866b9d35b801a1bf8e4059db9\AndroidManifest.xml:20:5-44
+MERGED from [android.arch.lifecycle:livedata-core:1.1.1] C:\Users\WIN10\.gradle\caches\transforms-1\files-1.1\livedata-core-1.1.1.aar\caf60ae866b9d35b801a1bf8e4059db9\AndroidManifest.xml:20:5-44
+MERGED from [android.arch.core:runtime:1.1.1] C:\Users\WIN10\.gradle\caches\transforms-1\files-1.1\runtime-1.1.1.aar\db20717d0a59d88bc0110719435513f9\AndroidManifest.xml:20:5-44
+MERGED from [android.arch.core:runtime:1.1.1] C:\Users\WIN10\.gradle\caches\transforms-1\files-1.1\runtime-1.1.1.aar\db20717d0a59d88bc0110719435513f9\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:interpolator:28.0.0] C:\Users\WIN10\.gradle\caches\transforms-1\files-1.1\interpolator-28.0.0.aar\1912cb50d2e5a11e61e1a386b993bf87\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:interpolator:28.0.0] C:\Users\WIN10\.gradle\caches\transforms-1\files-1.1\interpolator-28.0.0.aar\1912cb50d2e5a11e61e1a386b993bf87\AndroidManifest.xml:20:5-44
+MERGED from [com.facebook.fresco:imagepipeline-okhttp3:1.10.0] C:\Users\WIN10\.gradle\caches\transforms-1\files-1.1\imagepipeline-okhttp3-1.10.0.aar\6fb1c735b6375385519d27e6ba588c56\AndroidManifest.xml:5:5-7:41
+MERGED from [com.facebook.fresco:imagepipeline-okhttp3:1.10.0] C:\Users\WIN10\.gradle\caches\transforms-1\files-1.1\imagepipeline-okhttp3-1.10.0.aar\6fb1c735b6375385519d27e6ba588c56\AndroidManifest.xml:5:5-7:41
+MERGED from [com.facebook.fresco:fresco:1.10.0] C:\Users\WIN10\.gradle\caches\transforms-1\files-1.1\fresco-1.10.0.aar\8d946a87dcce13c0eddd9a2961699922\AndroidManifest.xml:5:5-7:41
+MERGED from [com.facebook.fresco:fresco:1.10.0] C:\Users\WIN10\.gradle\caches\transforms-1\files-1.1\fresco-1.10.0.aar\8d946a87dcce13c0eddd9a2961699922\AndroidManifest.xml:5:5-7:41
+MERGED from [com.facebook.fresco:drawee:1.10.0] C:\Users\WIN10\.gradle\caches\transforms-1\files-1.1\drawee-1.10.0.aar\767a432f451a41405fc83558d89262e5\AndroidManifest.xml:5:5-7:41
+MERGED from [com.facebook.fresco:drawee:1.10.0] C:\Users\WIN10\.gradle\caches\transforms-1\files-1.1\drawee-1.10.0.aar\767a432f451a41405fc83558d89262e5\AndroidManifest.xml:5:5-7:41
+MERGED from [com.facebook.fresco:imagepipeline:1.10.0] C:\Users\WIN10\.gradle\caches\transforms-1\files-1.1\imagepipeline-1.10.0.aar\da478952b1bb4f4effecde8b8e90d701\AndroidManifest.xml:5:5-7:41
+MERGED from [com.facebook.fresco:imagepipeline:1.10.0] C:\Users\WIN10\.gradle\caches\transforms-1\files-1.1\imagepipeline-1.10.0.aar\da478952b1bb4f4effecde8b8e90d701\AndroidManifest.xml:5:5-7:41
+MERGED from [com.facebook.fresco:imagepipeline-base:1.10.0] C:\Users\WIN10\.gradle\caches\transforms-1\files-1.1\imagepipeline-base-1.10.0.aar\c5c35f4d76dbf97da1b3cbc156555e1a\AndroidManifest.xml:5:5-7:41
+MERGED from [com.facebook.fresco:imagepipeline-base:1.10.0] C:\Users\WIN10\.gradle\caches\transforms-1\files-1.1\imagepipeline-base-1.10.0.aar\c5c35f4d76dbf97da1b3cbc156555e1a\AndroidManifest.xml:5:5-7:41
+MERGED from [com.facebook.soloader:soloader:0.6.0] C:\Users\WIN10\.gradle\caches\transforms-1\files-1.1\soloader-0.6.0.aar\9dfd606259c94a6a144cf5862a0c3587\AndroidManifest.xml:7:5-9:41
+MERGED from [com.facebook.soloader:soloader:0.6.0] C:\Users\WIN10\.gradle\caches\transforms-1\files-1.1\soloader-0.6.0.aar\9dfd606259c94a6a144cf5862a0c3587\AndroidManifest.xml:7:5-9:41
+MERGED from [com.facebook.fresco:fbcore:1.10.0] C:\Users\WIN10\.gradle\caches\transforms-1\files-1.1\fbcore-1.10.0.aar\f0494463bfbe43f3d6eec198f862595b\AndroidManifest.xml:5:5-7:41
+MERGED from [com.facebook.fresco:fbcore:1.10.0] C:\Users\WIN10\.gradle\caches\transforms-1\files-1.1\fbcore-1.10.0.aar\f0494463bfbe43f3d6eec198f862595b\AndroidManifest.xml:5:5-7:41
+INJECTED from C:\Users\WIN10\Desktop\sapir\android\app\src\debug\AndroidManifest.xml
+INJECTED from C:\Users\WIN10\Desktop\sapir\android\app\src\debug\AndroidManifest.xml
+	android:targetSdkVersion
+		INJECTED from C:\Users\WIN10\Desktop\sapir\android\app\src\main\AndroidManifest.xml
+		INJECTED from C:\Users\WIN10\Desktop\sapir\android\app\src\debug\AndroidManifest.xml
+	android:minSdkVersion
+		INJECTED from C:\Users\WIN10\Desktop\sapir\android\app\src\main\AndroidManifest.xml
+		INJECTED from C:\Users\WIN10\Desktop\sapir\android\app\src\debug\AndroidManifest.xml
+uses-permission#android.permission.SYSTEM_ALERT_WINDOW
+ADDED from C:\Users\WIN10\Desktop\sapir\android\app\src\debug\AndroidManifest.xml:5:5-77
+	android:name
+		ADDED from C:\Users\WIN10\Desktop\sapir\android\app\src\debug\AndroidManifest.xml:5:22-75
+provider#com.imagepicker.FileProvider
+ADDED from [:react-native-image-picker] C:\Users\WIN10\Desktop\sapir\node_modules\react-native-image-picker\android\build\intermediates\library_manifest\debug\AndroidManifest.xml:12:9-20:20
+	android:grantUriPermissions
+		ADDED from [:react-native-image-picker] C:\Users\WIN10\Desktop\sapir\node_modules\react-native-image-picker\android\build\intermediates\library_manifest\debug\AndroidManifest.xml:16:13-47
+	android:authorities
+		ADDED from [:react-native-image-picker] C:\Users\WIN10\Desktop\sapir\node_modules\react-native-image-picker\android\build\intermediates\library_manifest\debug\AndroidManifest.xml:14:13-60
+	android:exported
+		ADDED from [:react-native-image-picker] C:\Users\WIN10\Desktop\sapir\node_modules\react-native-image-picker\android\build\intermediates\library_manifest\debug\AndroidManifest.xml:15:13-37
+	android:name
+		ADDED from [:react-native-image-picker] C:\Users\WIN10\Desktop\sapir\node_modules\react-native-image-picker\android\build\intermediates\library_manifest\debug\AndroidManifest.xml:13:13-56
+meta-data#android.support.FILE_PROVIDER_PATHS
+ADDED from [:react-native-image-picker] C:\Users\WIN10\Desktop\sapir\node_modules\react-native-image-picker\android\build\intermediates\library_manifest\debug\AndroidManifest.xml:17:13-19:58
+	android:resource
+		ADDED from [:react-native-image-picker] C:\Users\WIN10\Desktop\sapir\node_modules\react-native-image-picker\android\build\intermediates\library_manifest\debug\AndroidManifest.xml:19:17-55
+	android:name
+		ADDED from [:react-native-image-picker] C:\Users\WIN10\Desktop\sapir\node_modules\react-native-image-picker\android\build\intermediates\library_manifest\debug\AndroidManifest.xml:18:17-67
+uses-permission#android.permission.ACCESS_NETWORK_STATE
+ADDED from [com.google.android.exoplayer:exoplayer-core:2.9.3] C:\Users\WIN10\.gradle\caches\transforms-1\files-1.1\exoplayer-core-2.9.3.aar\c282af8f1bf3c35f2c9dbbc9a967213f\AndroidManifest.xml:24:5-79
+	android:name
+		ADDED from [com.google.android.exoplayer:exoplayer-core:2.9.3] C:\Users\WIN10\.gradle\caches\transforms-1\files-1.1\exoplayer-core-2.9.3.aar\c282af8f1bf3c35f2c9dbbc9a967213f\AndroidManifest.xml:24:22-76

@@ -1,0 +1,4 @@
+#Thu Aug 22 12:53:05 IDT 2019
+base.0=C\:\\Users\\WIN10\\Desktop\\sapir\\android\\app\\build\\intermediates\\transforms\\dexMerger\\debug\\0
+renamed.0=classes.dex
+path.0=classes.dex
